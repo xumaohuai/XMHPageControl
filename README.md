@@ -1,0 +1,2 @@
+# -pageControl
+这个自定义的pageControl就是让每个pageControl点是它对于的scrollerview的图片,很简单的一个自定义控件.
